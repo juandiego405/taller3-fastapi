@@ -1,0 +1,12 @@
+{
+  "instances": [
+    {
+      "age": 23,
+      "sex": "male",
+      "bmi": 34.4,
+      "children": 0,
+      "smoker": "no",
+      "region": "southwest"
+    }
+  ]
+}
